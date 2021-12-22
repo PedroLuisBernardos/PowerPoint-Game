@@ -26,6 +26,7 @@ Ouvre le fichier `Mouse Swift.ppsx` pour jouer
 Le jeu est en espagnol donc je vais détailler les principaux principes ici:
 
 * Vous devez toujours vous placer vis-à-vis le carré vert que vous allez voir au début. **Tous les mondes commencent là.**
+
 ![carré vert](start.png)
 
 * Vous devez ensuite prendre les blocs de fromage 🧀 pour déverrouiller le carré rouge pour passer au prochain niveau. **Ne pas oublier de se placer vis-à-vis le carré vert du début pour commencer au bon endroit pour le deuxième niveau**.
