@@ -4,21 +4,21 @@
 ![License](https://img.shields.io/badge/license-CC0-green?style=flat)
 ![PowerPoint](https://img.shields.io/badge/-PowerPoint-B7472A?style=flat&logo=MicrosoftPowerPoint&logoColor=white)
 
-This is one of my many games I made with PowerPoint when I was like 12 years old. This is the only one I kept thought :(
+Ce jeu est le seul d'une multitude de jeux que j'ai faits quand j'avais 12 ans !
 
-## Author
+## Auteur
 
 * [Pedro Luis Bernardos](https://www.linkedin.com/in/pedro-luis-bernardos/)
 
 ## :wrench: Installation
 
-Clone this repo and access the folder
+Clôner ce dépot et accéder au dossier du jeu:
 
 ```bash
 $ git clone https://github.com/PedroLuisBernardos/PowerPoint-Game
 $ cd PowerPoint-Game
 ```
 
-## 🐭 How to play?
+## 🐭 Comment jouer ?
 
-Open the `Mouse Swift.ppsx` file to play
+Ouvre le fichier `Mouse Swift.ppsx` pour jouer
